@@ -1,0 +1,9 @@
+{
+  "name": "hello-js-2",
+  "version": "0.1.0",
+  "description": "Tiny hello world script",
+  "bin": {
+    "hello-js": "hello.js"
+  },
+  "author": "",
+  "license": "MIT"
